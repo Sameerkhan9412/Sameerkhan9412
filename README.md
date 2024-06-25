@@ -1,4 +1,4 @@
-![logo](https://github.com/Sameerkhan9412/Sameerkhan9412/blob/main/IMG-20230814-WA0001.jpg)
+![logo](https://github.com/Sameerkhan9412/Sameerkhan9412/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Sameer</h1>
 <h3 align="center">A passionate MERN (Mongodb , Express , Reactjs, Nodejs) developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerkhan9412&label=Profile%20views&color=0e75b6&style=flat" alt="sameerkhan9412" /> </p>
