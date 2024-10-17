@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA ( to improve my problem solving skills)**
 
-- 👨‍💻 All of my projects are available at [https://sameerkhan9412.github.io/MyPortfolioWebsite/](https://sameerkhan9412.github.io/MyPortfolioWebsite/)
+- 👨‍💻 All of my projects are available at [https://portfoliobysameer.vercel.app/](https://portfoliobysameer.vercel.app/)
 
 - 💬 Ask me about **Javascript,Reactjs, express js, nodejs, mongodb, SQL, Tailwind, bootstrap, Java,cpp,c etc.ta ,**
 
