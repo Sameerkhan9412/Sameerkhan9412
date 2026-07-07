@@ -38,7 +38,7 @@ const sameer = {
     masters: "MCA @ Aligarh Muslim University (CGPA: 8.0)",
     bachelors: "BCA @ Dharma Samaj College (75%)",
   },
-  currentStatus: "Freelancing & Building AI-Powered Applications 🚀",
+  currentStatus: "Full Stack Developer & Building AI-Powered Applications 🚀",
   lookingFor: [
     "Associate Software Engineer",
     "Full Stack Developer",
@@ -142,7 +142,7 @@ const sameer = {
   <tr>
     <td width="50px" align="center">🟢</td>
     <td>
-      <strong>Freelance Full Stack Developer</strong> — Self-Employed<br/>
+      <strong>Full Stack Developer</strong> — Self-Employed<br/>
       <em>Jan 2026 – Present</em><br/>
       ✅ Delivered 10+ live client projects from concept to deployment<br/>
       ✅ Built custom solutions using Next.js, React.js, Node.js, Express.js & MongoDB<br/>
